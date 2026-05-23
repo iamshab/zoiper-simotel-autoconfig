@@ -1,4 +1,4 @@
-# Zoiper4 Auto Config From Active Directory And Simotel PBX
+# Zoiper4 Auto Config From Active Directory And [Simotel](https://simotel.com) PBX
 
 This PowerShell script make Zoiper (version 4) softphone config automatic for Windows users.
 
